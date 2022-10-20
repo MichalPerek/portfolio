@@ -6,7 +6,6 @@ import {info} from "../../info/Info";
 
 
 export default function About() {
-    const firstName = info.firstName.toLowerCase()
 
     function aboutMeText() {
         return <>
@@ -21,6 +20,7 @@ export default function About() {
             <p> {info.careerBio} </p>
         </>
     }
+
     function educationText() {
         return <>
             <p style={{color: info.baseColor}}>Education:</p>
