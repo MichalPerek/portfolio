@@ -1,0 +1,25 @@
+@import "../../variables.modules.scss";
+
+
+
+.active {
+  border-bottom: 5px solid;
+  border-image-slice: 1;
+}
+
+li {
+  transition: $transition;
+
+  &:hover {
+    transform: translateY(-3px);
+    transition: $transition;
+  }
+}
+
+.mockImg {
+  width: 50%;
+  margin: 1rem;
+  border-radius: 1rem;
+  border: solid 1px $green;
+  padding: 1rem;
+}

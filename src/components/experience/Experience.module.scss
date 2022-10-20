@@ -1,0 +1,26 @@
+@import "../../variables.modules";
+
+.pink {
+  color: $pink;
+}
+
+.green {
+  color: $green;
+}
+
+p {
+  text-align: justify;
+}
+
+.date {
+  color: $green
+}
+
+.employer {
+  text-align: left;
+}
+
+.position {
+  font-size: 0.75rem;
+  text-align: left;
+}
