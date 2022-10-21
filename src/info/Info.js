@@ -51,9 +51,9 @@ export const info = {
     skills:
         {
             proficientWith: ['javascript', 'react', 'redux', 'git', 'material ui', 'html', 'css'],
-            exposedTo: ['node.js', 'postrgeSQL' ,'grafana', 'sass'],
-            planningToLearn: ['typescript','solidity', 'web3js','next.js','aws','bootstrap'],
-            otherSkills: ['communication & presentation skills', 'mechanical engineering','3d cad design', '3d printing','technical documentation','manual skills'],
+            exposedTo: ['node.js', 'postrgeSQL', 'grafana', 'sass'],
+            planningToLearn: ['typescript', 'solidity', 'web3js', 'next.js', 'aws', 'bootstrap'],
+            otherSkills: ['communication & presentation skills', 'mechanical engineering', '3d cad design', '3d printing', 'technical documentation', 'manual skills'],
             languages: ['english - c1', 'polish - native'],
         }
     ,
@@ -133,27 +133,27 @@ export const info = {
     portfolio: [
         {
             title: "Where in the world?",
-            live: "tbd",
-            source: "https://github.com/MichalPerek/Countries",
+            live: "https://jade-tapioca-15e487.netlify.app/",
+            source: "https://github.com/MichalPerek/AllCountries",
             image: mock1
         },
         {
             title: "Great Quotes",
-            live: "tbd",
-            source: "https://github.com/MichalPerek/Quotes",
+            live: "https://warm-beijinho-61b6a3.netlify.app",
+            source: "https://github.com/MichalPerek/GreatQuotes",
             image: mock2
-        },
-        {
-            title: "Pokedex",
-            live: "https://glittering-piroshki-45c80d.netlify.app/",
-            source: "https://github.com/MichalPerek/Pokedex",
-            image: mock3
         },
         {
             title: "HTML checker",
             live: "https://jazzy-nougat-859e51.netlify.app/",
             source: "https://github.com/MichalPerek/HTML-Validation",
             image: mock4
+        },
+        {
+            title: "Pokedex",
+            live: "https://glittering-piroshki-45c80d.netlify.app/",
+            source: "https://github.com/MichalPerek/Pokedex",
+            image: mock3
         },
         {
             title: "Splitter: tip calculator",
