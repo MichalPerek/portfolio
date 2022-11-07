@@ -20,7 +20,7 @@ Portfolio of personal projects & online CV.
 
 ## live preview
 
-https://master--dainty-sherbet-b49343.netlify.app/
+https://perek-michal-dev.netlify.app/
 
 ## resources
 
