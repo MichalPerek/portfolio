@@ -1,9 +1,5 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -133,33 +129,9 @@ export const info = {
     portfolio: [
         {
             title: "Where in the world?",
-            live: "https://jade-tapioca-15e487.netlify.app/",
+            live: "https://all-countries-dev.netlify.app/",
             source: "https://github.com/MichalPerek/AllCountries",
             image: mock1
-        },
-        {
-            title: "Great Quotes",
-            live: "https://warm-beijinho-61b6a3.netlify.app",
-            source: "https://github.com/MichalPerek/GreatQuotes",
-            image: mock2
-        },
-        {
-            title: "HTML checker",
-            live: "https://jazzy-nougat-859e51.netlify.app/",
-            source: "https://github.com/MichalPerek/HTML-Validation",
-            image: mock4
-        },
-        {
-            title: "Pokedex",
-            live: "https://glittering-piroshki-45c80d.netlify.app/",
-            source: "https://github.com/MichalPerek/Pokedex",
-            image: mock3
-        },
-        {
-            title: "Splitter: tip calculator",
-            live: "https://spontaneous-arithmetic-9a3cc2.netlify.app/",
-            source: "https://github.com/MichalPerek/Splitter-tip-calculator",
-            image: mock5
         }
     ]
 }
