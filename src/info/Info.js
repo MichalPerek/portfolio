@@ -1,5 +1,6 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
+import mock6 from "../img/mock6.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -132,6 +133,13 @@ export const info = {
             live: "https://all-countries-dev.netlify.app/",
             source: "https://github.com/MichalPerek/AllCountries",
             image: mock1
+        },
+        {
+            title: "HR Panel Mock",
+            live: "https://hr-panel-dev.netlify.app/",
+            source: "https://github.com/MichalPerek/users-list",
+            image: mock6
         }
+
     ]
 }
